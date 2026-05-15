@@ -3,7 +3,7 @@ Version: 1.0.0-1
 Architecture: all
 Maintainer: Your Name <you@example.com>
 Depends: gcc, make, libc6-dev
-Filename: /home/servicebuild4/vedi/linux/my-apt-repo/pool/main/h/hello-test/hello-test_1.0.0-1_all.deb
+Filename: pool/main/h/hello-test/hello-test_1.0.0-1_all.deb
 Size: 1636
 MD5sum: 1d3d0c7c9588327416534d5187407eb6
 SHA1: 2fe59747bf812348b6f71d34c0bd8325f3d59ded
