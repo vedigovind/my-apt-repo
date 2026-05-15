@@ -1,0 +1,15 @@
+Package: hello-test
+Version: 1.0.0-1
+Architecture: all
+Maintainer: Your Name <you@example.com>
+Depends: gcc, make, libc6-dev
+Filename: /home/servicebuild4/vedi/linux/my-apt-repo/pool/main/h/hello-test/hello-test_1.0.0-1_all.deb
+Size: 1636
+MD5sum: 1d3d0c7c9588327416534d5187407eb6
+SHA1: 2fe59747bf812348b6f71d34c0bd8325f3d59ded
+SHA256: 018c0e4d2f0741e0428a06e118a0ae09e0b2a705fed0295beb039f27cbf3a675
+Section: utils
+Priority: optional
+Description: On-the-fly compiling Hello World test application
+ A sample package that compiles source code locally during installation.
+

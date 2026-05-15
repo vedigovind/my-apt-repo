@@ -1,0 +1,32 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: My APT Repo
+Label: My APT Repo
+Suite: stable
+Codename: stable
+Architectures: all
+Components: main
+Description: Public Debian Repository
+MD5Sum:
+ a11d9bccae93a00d1f92ff8b396259cd 571 main/binary-all/Packages
+ 5016129db585b801b42eda4e1ccb1fb4 432 main/binary-all/Packages.gz
+SHA256:
+ 557cbd8689da3e1f709c4cd1dd35b72e722efed46d7fb68b43390ca8718d7929 571 main/binary-all/Packages
+ 3941db716c801ee8ec010eec72613e5937e5215d5938187535d1e1a7a6358247 432 main/binary-all/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEhPR8aGOqrE2oGZQ4b+gDBK0jg74FAmoGwagACgkQb+gDBK0j
+g75BCQ//dWeS8OzLRIus799RHSkE2Tm+XmQ4/1YHFRDQuBGGODuNVfkzrtNHGRLK
+err7ykNkKqKjI2/VJJMIV39pe/ki9Y1N/TDi+TTezlMhTEw46fJ7J3OgMmGebEPy
+m+Ev5E5D5yaRJPVeDvQBWyJ9tLYF13qG5N/nY6NwVA82VDwr4y+V8pfEAUq7wY7Y
+LEmQgAIeg4Bmp+f4fS0b6NodX8gO/uplm1Dc7LnNofTgjHeW1qt0aTTYb/E7lItU
+H8PuP3di4lxuBjJClCbYrg21ktdrhzhUPntK60EW37dyoWNNatMGEtoc5BPqSPLE
+EopoBaOggvbB36JfHVo3mdphbPoS8a2NQcsqd/oq/9gHQW7LaHHRxhN50C6+Auum
+JwUrD03gZ5z6Eat/iTtVXs3D8LNWJsz+7ZdClXyPNnPlO0c1Nn5YDjS/sxDuePR5
+f2m8HSc5ZND5nwa4JfkhOdQmu0xxcJ+DNBS1jEu/ExJ+ebQXadyu+14MViBRmhJT
+0VXTPZHNsYViMmLIfFc8atNPsxvwjFzFCKxmAZCdNlF+SM4WB32+IAUUDV+ZN95P
+JquZQOGrNGPjeHdubv4zYdbOS5f86UiM6/egupVrxrARNuDo4hD25jZX0gGhJc6s
+Vt+YWx647QiPnv3tEYEOMP0tB9bZvS8Gu91SdfBFZA878T15CM4=
+=7yW+
+-----END PGP SIGNATURE-----

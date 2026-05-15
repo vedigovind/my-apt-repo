@@ -1,0 +1,13 @@
+Origin: My APT Repo
+Label: My APT Repo
+Suite: stable
+Codename: stable
+Architectures: all
+Components: main
+Description: Public Debian Repository
+MD5Sum:
+ a11d9bccae93a00d1f92ff8b396259cd 571 main/binary-all/Packages
+ 5016129db585b801b42eda4e1ccb1fb4 432 main/binary-all/Packages.gz
+SHA256:
+ 557cbd8689da3e1f709c4cd1dd35b72e722efed46d7fb68b43390ca8718d7929 571 main/binary-all/Packages
+ 3941db716c801ee8ec010eec72613e5937e5215d5938187535d1e1a7a6358247 432 main/binary-all/Packages.gz
